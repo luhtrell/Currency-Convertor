@@ -1,1 +1,2 @@
 # Currency-Convertor
+This project was a final project for my Pyhton class. I chose to do a currency convertor because I really wanted to test my skills on making a project that included a pop-up window and giving the user multiple options. As a first project I must say this was pretty difficult. I am working on making the user choose which currency they want to pick from. Currently I only have the convertor working as a USD to any other currency and I'm working on making the user able to pick which currency they want to convert from. 
